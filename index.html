@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shoppy</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="main_style.css">
+</head>
+<body>
+  <!--login start-->
+  <div class="overlay hidden">
+  <div class="logup hidden">
+    <div class="acc_col-1">
+        <img src="img/log_img.png" width="100%">
+    </div>
+    <div class="acc_col-2">
+        <div class="accform-container">
+            <div class="accform-btn">
+                <span onclick="login()">Login</span>
+                <span onclick="register()">Register</span>
+                <hr id="Indicator">
+            </div>
+            <form class="accform" id="LoginForm">
+                <input type="text" placeholder="Username">
+                <input type="password" placeholder="password">
+                <button type="submit" class="btn">Login</button>
+                <a href="">Forgot password</a>
+            </form>
+            <form class="accform" id="RegForm">
+                <input type="text" placeholder="Username">
+                <input type="email" placeholder="Email">
+                <input type="password" placeholder="password">
+                <button type="submit" class="btn">Register</button>
+            </form>
+        </div>
+    </div>
+    <div class="acc_col-3">
+        <i id="logclose" class="fa fa-close" style="font-size:36px;color: white;"></i>
+    </div>
+</div>
+</div>
+
+
+  <!--login end-->
+  <!-- navbar & category bar start-->
+  <section id="nav" class="nav_container sticky">
+    
+    <div class="logo">
+        <a class="nlogo" href="index.html"><img id="logopic" src="img/logo.png" alt="logo"></a>
+    </div>
+    <div class="overlay2 hidden"></div>
+    <div class="m_nav hidden">
+      <a href="#">Home</a>
+      <a href="#">About Us</a>
+      <a href="#">More</a>
+    </div>
+    
+ 
+    <div class="search">
+        <form onsubmit="searchbar(event)">
+            <input type="text" class="in_search"
+                placeholder=" Search Items..."
+                name="search">
+            <button id="search_bt">
+                <i class="bt_search fa fa-search"
+                    style="font-size: 27px;">
+                </i>
+            </button>
+        </form>
+    </div>
+
+    <div class="nav_mid">
+        
+        <a class="m_hide" href="index.html">Home</a>
+        <a class="m_hide" href="#">About Us</a>
+      
+        <a id="user_bt">
+            <i class="fa fa-user" style="font-size: 22px;"></i>
+        </a>
+        <a id="cart_bt" href="cartPage.html">
+                <i class="fa fa-shopping-cart" style="font-size: 22px"></i>
+        </a>
+        <a href="#" class="menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </a>
+    </div>
+</section>
+<div id="nav_blank" style="width: 100%;height: 60px;"></div>
+<div class="nav_category">
+
+  <div class="nav_dropdown">
+    <div class="nav_cat">
+        <div>
+            <a><img class="items_category" src="img/fashion.jpg" alt="fashion"></a>
+        </div>
+        <div>
+            <a>Fashion<i class=" fa fa-angle-down" style="margin-left: 5px;"></i></a>
+        </div>
+        </div>
+        <div class="nav_dropdown-contant">
+            <a href="CategoryPage.html?cat=Men">Men's Wear</a>
+            <a href="CategoryPage.html?cat=Women">Women's Wear</a>
+            <a href="CategoryPage.html?cat=Watch">Watches</a>
+           </div>
+
+    </div>
+    <div class="nav_dropdown">
+    <div class="nav_cat">
+        <div>
+            <a><img class="items_category" src="img/appliance.jpg" alt="appliance"></a>
+        </div>
+        <div>
+            <a>Appliances<i class=" fa fa-angle-down" style="margin-left: 5px;"></i></a>
+        </div>
+    </div>
+    <div class="nav_dropdown-contant">
+        <a href="CategoryPage.html?cat=Home-Appliance">Televisions</a>
+        <a href="CategoryPage.html?cat=Home-Appliance">Air Conditioners</a>
+        <a href="CategoryPage.html?cat=Kitchen Appliances">Kitchen Appliances</a>
+        <a href="CategoryPage.html?cat=Home-Appliance">Refrigerators</a>
+       </div>
+    </div>
+
+
+    <div class="nav_cat">
+        <div>
+            <a href="CategoryPage.html?cat=Grocery"><img class="items_category" src="img/grocery.jpg" alt="grocery"></a>
+
+        </div>
+        <div>
+            <a href="CategoryPage.html?cat=Grocery">Grocery</a>
+        </div>
+        
+    </div>
+    <div class="nav_cat">
+        <div>
+            <a href="CategoryPage.html?cat=Mobile"><img class="items_category" src="img/mobiles.jpg" alt="mobiles"></a>
+        </div>
+        <div>
+            <a href="CategoryPage.html?cat=Mobile">Mobiles</a>
+        </div>
+
+    </div>
+    <div class="nav_cat">
+      <div>
+          <a href="CategoryPage.html?cat=Laptop"><img class="items_category" src="img/electronics.jpg" alt="electronics"></a>
+      </div>
+      <div>
+          <a href="CategoryPage.html?cat=Laptop">Laptops</a>
+      </div>
+  </div>
+
+
+</div>
+</header>
+<!-- navbar & category bar end -->
+<!--slider start-->
+<div class="slide_container">
+    <div class="Slides slide_fade">
+    <a href="CategoryPage.html?cat=Home-Appliance"><img src="img/slide1.jpg" alt="slide"></a>
+    </div>
+   
+    <div class="Slides slide_fade">
+      <a href="CategoryPage.html?cat=Mobile"><img src="img/slide2.jpg" alt="slide"></a>
+    </div>
+
+    <div class="Slides slide_fade">
+      <a href="CategoryPage.html?cat=Mobile"><img src="img/slide3.jpg" alt="slide"></a>
+    </div>
+
+    <div class="Slides slide_fade">
+      <a href="CategoryPage.html?cat=Home-Appliance"><img src="img/slide4.jpg" alt="slide"></a>
+    </div>
+
+    <div class="Slides slide_fade">
+      <a href="CategoryPage.html?cat=Watch"><img src="img/slide5.jpeg" alt="slide"></a>
+
+    </div>
+
+    <div class="Slides slide_fade">
+      <a href="CategoryPage.html?cat=Home-Appliance"><img src="img/slide6.jpg" alt="slide"></a>
+    </div>
+
+    <div class="Slides slide_fade">
+      <a href="CategoryPage.html?cat=Men"><img src="img/slide7.jpg" alt="slide"></a>
+    </div>
+
+    <div class="Slides slide_fade">
+      <a href="CategoryPage.html?cat=Women"><img src="img/slide8.jpg" alt="slide"></a>
+    </div>
+
+    <div class="Slides slide_fade">
+      <a href="CategoryPage.html?cat=Men"><img src="img/slide9.jpg" alt="slide"></a>
+    </div>
+</div>
+<!-- image slider end -->
+
+<!-- products start-->
+    <!-- today deal -->
+    <div class="today-deal">
+      <div class="deals_head">
+        <h2>Today's Deal</h2>
+      </div>
+      <div class="deal-cards"></div>
+    </div>
+    <!-- category wise -->
+    <div class="cat-product"> </div>
+<!-- products end -->
+
+<!-- testimonial start-->
+<div class="T_slide_container">
+  
+  <div class="T_Slides slide_fade">
+    <div class="T_img">
+      <img src="img/T_img1.jpg" alt="">
+    </div>
+    <i class="fa fa-quote-left" style="font-size:24px;"> </i>
+    <div class="T_text">
+      <h4>Got delivery on the same day, wow its fast man, I am also satisfied with the service of Shoppy. Thanks to Shoppy for delivering it before the given date and for delivering the genuine product.</h4>
+      <p>~Kamal</p>
+    </div>
+  </div>
+  <div class="T_Slides slide_fade">
+    <div class="T_img">
+      <img src="img/T_img2.jpg" alt="">
+    </div>
+    <i class="fa fa-quote-left" style="font-size:24px;"></i>
+    <div class="T_text">
+      <h4>This is very nice product from Abrexo on the other hand, I am also satisfied with the service of Shoppy. Thanks to Shoppy for delivering it before the given date and for delivering the genuine product.</h4>
+      <p>~Alix</p>
+    </div>
+  </div>
+  <div class="T_Slides slide_fade">
+    
+    <div class="T_img">
+      <img src="img/T_img3.jpg" alt="">
+    </div>
+    <i class="fa fa-quote-left" style="font-size:24px;"></i>
+    <div class="T_text">
+      <h4>Got best deals in every product, I am also satisfied with the service of Shoppy. Thanks to Shoppy for delivering it before the given date and for delivering the genuine product. Thank You.</h4>
+      <p>~Navi</p>
+    </div>
+  </div>
+  <div class="T_Slides slide_fade">
+    <div class="T_img">
+       <img src="img/T_img4.jpg" alt="">
+    </div>
+    <i class="fa fa-quote-left" style="font-size:24px;"></i>
+    <div class="T_text">
+      <h4>This is very nice product from realme. I have used another watch of this company and it gave a great service to me and on the other hand, I am also satisfied with the service of Shoppy. Thanks to Shoppy for delivering it before the given date and for delivering the genuine product.</h4>
+      <p>~Karan</p>
+    </div>
+  </div>
+
+  
+</div>
+    
+    
+  <!-- testimonial end -->
+  <!--footer start-->
+   
+  <footer class="footer">
+    <div class="footer_container">
+    <a class="footer__logo" href="#">
+      <img id="logopic" src="img/logo.png">
+    </a>
+    <div class="footer_download">
+        <div class="download_btn">
+          <a href="https://play.google.com/store/apps" target="_blank"><img src="img/down1.jpg" alt=""></a>
+        </div>
+        <div class="download_btn">
+          <a href="https://www.apple.com/in/app-store/" target="_blank"><img src="img/down2.jpg" alt=""></a>
+        </div>
+    </div>
+     <div class="footer__social">
+        <div class="social_title">
+            <span class="footer_text">Reach out to us</span>
+        </div>
+        <div class="social_icon">
+            <a href="https://www.instagram.com/" target="_blank">
+                <i class="footer_icon fa fa-instagram"></i>
+              </a>
+              <a href="https://twitter.com/?logout=1676573430813" target="_blank">
+              <i class="footer_icon fa fa-twitter"></i>
+             </a>
+             <a href="https://twitter.com/?logout=1676573430813" target="_blank">
+               <i class="footer_icon fa fa-youtube-play"></i>
+             </a>
+             <a href="https://www.facebook.com/" target="_blank">
+               <i class="footer_icon fa fa-facebook"></i>
+             </a>
+        </div>
+    </div>
+     <div class="footer__links col1">
+       <a href="#">About us</a>
+       <a href="#">Contacts</a>
+       <a href="#">Blog</a>
+       
+     </div>
+     <div class="footer__links col2">
+      <a href="#">Careers</a>
+      <a href="#">Support</a>
+      <a href="#">Privacy Policy</a>
+      
+    </div>
+    <div class="footer__copyright">
+      &copy; Shoppy. All Rights Reserved.
+    </div>
+    </div>
+    
+  </footer>
+  
+
+
+
+  <!--footer end-->
+    <script src="index.js"></script>
+    <script src="main_js.js"></script>
+    <script src="slider.js"></script>
+    <script>
+      /*****scroll bar */
+       var prevScrollpos = window.pageYOffset;
+        window.onscroll = function() {
+       var currentScrollPos = window.pageYOffset;
+       if (prevScrollpos > currentScrollPos) {
+       document.getElementById("nav").style.top = "0";
+       } else {
+       document.getElementById("nav").style.top = "-85px";
+       }
+       prevScrollpos = currentScrollPos;
+       }
+
+    </script>
+    
+    
+</body>
+</html>

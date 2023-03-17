@@ -1,0 +1,1402 @@
+[
+    
+        {
+            "id": 101,
+            "category": "Mobile" ,
+            "image": ["images/m1a.png", "images/m1b.png", "images/m1c.png", "images/m1d.png", "images/m1e.png"],
+            "name": "APPLE iPhone 14 Pro (Deep Purple, 128 GB)",
+            "rating": "4.3",
+            "discount": "₹1,23,999",
+            "price": "₹1,20,999",
+            "description": ["128 GB ROM <br>15.49 cm (6.1 inch) Super Retina XDR Display", "48MP + 12MP + 12MP + 12MP | 12MP Front Camera", "A16 Bionic Chip, 6 Core Processor Processor"]
+        },
+        {
+            "id": 102, 
+            "category": "Mobile" ,
+            "image": ["images/m2a.png", "images/m2b.png", "images/m2c.png", "images/m2d.png", "images/m2e.png"],
+            "name": "OnePlus 10T 5G (Jade Green, 128 GB)  (8 GB RAM)",
+            "rating": "4.2",
+            "discount": "₹49,999",
+            "price": "₹45,999",
+            "description": ["8 GB RAM | 128 GB ROM", "17.02 cm (6.7 inch) Display", "50MP Rear Camera", "4800 mAh Battery"]
+        },
+        {
+            "id": 103, 
+            "category": "Mobile" ,
+            "image": ["images/m3a.png", "images/m3b.png", "images/m3c.png", "images/m3d.png", "images/m3e.png"],
+            "name": "Google Pixel 7 (Obsidian, 128 GB)  (8 GB RAM)",
+            "rating": "4.1",
+            "discount": "₹56,999",
+            "price": "₹52,999",
+            "description": ["8 GB RAM | 128 GB ROM", "16.0 cm (6.3 inch) Full HD+ Display", "50MP + 12MP | 10.8MP Front Camera", "4270 mAh Battery", "Google Tensor G2 Processor"]
+        },
+        {
+            "id": 104, 
+            "category": "Mobile" ,
+            "image": ["images/m4a.png", "images/m4b.png", "images/m4c.png", "images/m4d.png", "images/m4e.png"],
+            "name": "Nokia 7.2 (Ice, 64 GB)  (6 GB RAM)",
+            "rating": "4.6",
+            "discount": "₹23,999",
+            "price": "₹20,999",
+            "description": ["6 GB RAM | 64 GB ROM | Expandable Upto 512 GB", "16.0 cm (6.3 inch) Full HD+ Display", "48MP + 5MP + 8MP | 20MP Front Camera", "3500 mAh Battery", "Qualcomm Snapdragon 660 Processor"]
+        },
+        {
+            "id": 105, 
+            "category": "Mobile" ,
+            "image": ["images/m5a.png", "images/m5b.png", "images/m5c.png", "images/m5d.png", "images/m5e.png"],
+            "name": "REDMI Note 12 Pro 5G (Stardust Purple, 256 GB)  (8 GB RAM)",
+            "rating": "4.4",
+            "discount": "₹27,999",
+            "price": "₹22,999",
+            "description": ["8 GB RAM | 256 GB ROM", "16.94 cm (6.67 inch) Full HD Display", "50MP (OIS) + 8MP + 2MP | 16MP Front Camera", "5000 mAh Lithium Polymer Battery", "Mediatek Dimensity 1080 Processor"]
+        },
+        {
+            "id": 106, 
+            "category": "Mobile" ,
+            "image": ["images/m6a.png", "images/m6b.png", "images/m6c.png", "images/m6d.png", "images/m6e.png"],
+            "name": "SAMSUNG Galaxy S23 Ultra 5G (Green, 1 TB)  (12 GB RAM)",
+            "rating": "4.6",
+            "discount": "₹1,53,999",
+            "price": "₹1,50,999",
+            "description": ["12 GB RAM | 1 TB ROM", "17.27 cm (6.8 inch) Quad HD+ Display", "200MP + 10MP + 12MP + 10MP | 12MP Front Camera", "5000 mAh Lithium Ion Battery", "Qualcomm Snapdragon 8 Gen 2 Processor"]
+        },
+        {
+            "id": 107, 
+            "category": "Mobile" ,
+            "image": ["images/m7a.png", "images/m7b.png", "images/m7c.png", "images/m7d.png", "images/m7e.png"],
+            "name": "POCO X3 Pro (Steel Blue, 128 GB)  (8 GB RAM)",
+            "rating": "4.7",
+            "discount": "₹23,999",
+            "price": "₹20,999",
+            "description": ["8 GB RAM | 128 GB ROM | Expandable Upto 1 TB", "16.94 cm (6.67 inch) Full HD+ Display", "48MP + 8MP + 2MP + 2MP | 20MP Front Camera", "5160 mAh Lithium-ion Polymer Battery", "Qualcomm Snapdragon 860 Processor", "Multiple Hands-free Voice Assistants"]   },
+        {
+            "id": 108, 
+            "category": "Mobile" ,
+            "image": ["images/m8a.png", "images/m8b.png", "images/m8c.png", "images/m8d.png", "images/m8e.png"],
+            "name": "Infinix Zero Ultra (Genesis Noir, 256 GB)  (8 GB RAM)",
+            "rating": "4.8",
+            "discount": "₹33,999",
+            "price": "₹30,999",
+            "description": ["8 GB RAM | 256 GB ROM", "17.27 cm (6.8 inch) Full HD+ Display", "200MP + 13MP + 2MP | 32MP Front Camera", "4500 mAh Lithium-ion Polymer Battery", "Mediatek Dimensity 920 Processor"]
+        },
+        {
+            "id": 109, 
+            "category": "Mobile" ,
+            "image": ["images/m9a.png", "images/m9b.png", "images/m9c.png", "images/m9d.png", "images/m9e.png"],
+            "name": "vivo V21 5G (Sunset Dazzle, 128 GB)  (8 GB RAM)",
+            "rating": "4.3",
+            "discount": "₹27,999",
+            "price": "₹25,999",
+            "description": ["8 GB RAM | 128 GB ROM", "16.36 cm (6.44 inch) Full HD+ Display", "64MP + 8MP + 2MP | 44MP Front Camera", "4000 mAh Lithium-ion Battery", "MediaTek Dimensity 800U Processor", "AMOLED Display"]
+        },
+        {
+            "id": 110, 
+            "category": "Mobile" ,
+            "image": ["images/m10a.png", "images/m10b.png", "images/m10c.png", "images/m10d.png", "images/m10e.png"],
+            "name": "Honor 20 (Midnight Black, 128 GB)  (6 GB RAM)",
+            "rating": "4.4",
+            "discount": "₹33,999",
+            "price": "₹30,999",
+            "description": ["6 GB RAM | 128 GB ROM", "15.9 cm (6.26 inch) Display", "48MP + 2MP + 16MP | 32MP Front Camera", "3750 mAh Battery", "HiSilicon Kirin 980 Processor"]
+        },
+        {
+            "id": 111, 
+            "category": "Mobile" ,
+            "image": ["images/m11a.png", "images/m11b.png", "images/m11c.png", "images/m11d.png", "images/m11e.png"],
+            "name": "ASUS ROG 5s (Black, 128 GB)  (8 GB RAM)",
+            "rating": "4.2",
+            "discount": "₹39,999",
+            "price": "₹37,999",
+            "description": ["8 GB RAM | 128 GB ROM", "17.22 cm (6.78 inch) Full HD+ Display", "64MP + 13MP + 5MP | 24MP Front Camera", "6000 mAh Lithium Polymer Battery", "Qualcomm Snapdragon 888 Plus (SM8350) Processor"]
+        },
+        {
+            "id": 112, 
+            "category": "Mobile" ,
+            "image": ["images/m12a.png", "images/m12b.png", "images/m12c.png", "images/m12d.png", "images/m12e.png"],
+            "name": "realme GT 2 Pro (Steel Black, 256 GB)  (12 GB RAM)",
+            "rating": "4.4",
+            "discount": "₹47,999",
+            "price": "₹45,999",
+            "description": ["12 GB RAM | 256 GB ROM", "17.02 cm (6.7 inch) Quad HD Display", "50MP + 50MP + 2MP | 32MP Front Camera", "5000 mAh Lithium Ion Battery", "Qualcomm Snapdragon 8 Gen 1 Mobile Platform Processor"]
+        },
+
+    
+    {
+        "id": 201, 
+        "category": "Laptop" ,
+        "image": ["images/l1a.png", "images/l1b.png", "images/l1c.png", "images/l1d.png", "images/l1e.png"],
+        "name": "APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A  (13.3 inch, Space Grey, 1.29 kg)",
+        "rating": "4.1",
+        "discount": "₹86,999",
+        "price": "₹84,999",
+        "description": ["Stylish & Portable Thin and Light Laptop", "13.3 inch Quad LED Backlit IPS Display", "(227 PPI, 400 nits Brightness, Wide Colour (P3)", "True Tone Technology)", "Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 202, 
+        "category": "Laptop" ,
+        "image": ["images/l2a.png", "images/l2b.png", "images/l2c.png", "images/l2d.png", "images/l2e.png"],
+        "name": "SAMSUNG Galaxy Book2 Core i5 12th Gen - (8 GB/256 GB SSD/Windows 11 Home) NP750XED-KB1IN Thin and Light Laptop  (15.6 Inch, Graphite, 1.57 kg, With MS Office)",
+        "rating": "4.3",
+        "discount": "₹66,999",
+        "price": "₹61,999",
+        "description": ["Stylish & Portable Thin and Light Laptop", "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3)", "True Tone Technology)", "Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 203, 
+        "category": "Laptop" ,
+        "image": ["images/l3a.png", "images/l3b.png", "images/l3c.png", "images/l3d.png", "images/l3e.png"],
+        "name": "Lenovo IdeaPad 1 Ryzen 5 Quad Core 3500U - (8 GB12 GB SSD/Windows 11 Home) 15ADA7 Thin and Light Laptop  (15.6 Inch, Cloud Grey, 1.6 Kg, With MS Office)",
+        "rating": "4.5",
+        "discount": "₹43,999",
+        "price": "₹40,999",
+        "description": ["Stylish & Portable Thin and Light Laptop", "15.6 Inch FHD, TN 220nits Anti-glare", "Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 204, 
+        "category": "Laptop" ,
+        "image": ["images/l4a.png", "images/l4b.png", "images/l4c.png", "images/l4d.png", "images/l4e.png"],
+        "name": "APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A  (13.3 inch, Space Grey, 1.29 kg)",
+        "rating": "4.2",
+        "discount": "₹70,999",
+        "price": "₹65,999",
+        "description": ["Stylish & Portable Thin and Light Laptop", "13.3 inch Quad LED Backlit IPS Display", "(227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)", "Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 205, 
+        "category": "Laptop" ,
+        "image": ["images/l5a.png", "images/l5b.png", "images/l5c.png", "images/l5d.png", "images/l5e.png"],
+        "name": "MSI Core i7 11th Gen - (8 GB12 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) GF63 Thin 11UC-866IN Gaming Laptop  (15.6 Inch, Black, 1.86 Kg)",
+        "rating": "4.4",
+        "discount": "₹76,999",
+        "price": "₹72,999",
+        "description": ["15.6 Inch Full HD, 144Hz, 45% NTSC", "IPS-Level Panel Light Laptop without Optical Disk Drive", "Pre-installed Genuine Windows 10 OS"]
+    },
+    {
+        "id": 206, 
+        "category": "Laptop" ,
+        "image": ["images/l4a.png", "images/l4b.png", "images/l4c.png", "images/l4d.png", "images/l4e.png"],
+        "name": "ASUS TUF Gaming A17 with 90Whr Battery Ryzen 7 Octa Core AMD R7-4800H - (8 GB12 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 3050/144 Hz) FA706ICB-HX061W | FA706IC-HX036W Gaming Laptop  (17.3 Inch, Graphite Black, 2.60 Kg)",
+        "rating": "4.3",
+        "discount": "₹67,999",
+        "price": "₹65,999",
+        "description": ["17.3 Inch FHD", "anti-glare display (250nits Brightness, 62.5% SRGB, 45% NTSC %)", "Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 207, 
+        "category": "Laptop" ,
+        "image": ["images/l7a.png", "images/l7b.png", "images/l7c.png", "images/l7d.png", "images/l7e.png"],
+        "name": "DELL Vostro Pentium Gold - (8 GB/256 GB SSD/Windows 11 Home) Vostro 3510 Thin and Light Laptop  (15.6 Inch, Carbon, 1.69 Kg, With MS Office)",
+        "rating": "4.3",
+        "discount": "₹36,999",
+        "price": "₹32,999",
+        "description": ["Stylish & Portable Thin and Light Laptop 15.6 Inch <br>Full HD WVA AG Narrow Border Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 208, 
+        "category": "Laptop" ,
+        "image": ["images/l8a.png", "images/l8b.png", "images/l8c.png", "images/l8d.png", "images/l8e.png"],
+        "name": "Lenovo IdeaPad 1 Ryzen 3 Dual Core 3250U - (8 GB12 GB SSD/Windows 11 Home) 15ADA7 Thin and Light Laptop  (15.6 Inch, Cloud Grey, 1.6 Kg, With MS Office)",
+        "rating": "4.2",
+        "discount": "₹36,999",
+        "price": "₹34,999",
+        "description": ["Stylish & Portable Thin and Light Laptop 15.6 Inch FHD", "TN 220nits Anti-glare Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 209, 
+        "category": "Laptop" ,
+        "image": ["images/l9a.png", "images/l9b.png", "images/l9c.png", "images/l9d.png", "images/l9e.png"],
+        "name": "Lenovo Legion 5 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15ARH05 Gaming Laptop  (15.6 inch, Phantom Black, 2.3 kg)",
+        "rating": "4.2",
+        "discount": "₹72,999",
+        "price": "₹70,999",
+        "description": ["Stylish & Portable Thin and Light Laptop 15.6 Inch FHD", "TN 220nits Anti-glare Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 210, 
+        "category": "Laptop" ,
+        "image": ["images/l10a.png", "images/l10b.png", "images/l10c.png", "images/l10d.png", "images/l10e.png"],
+        "name": "MSI Katana GF66 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) Katana GF66 11UE-861IN Gaming Laptop  (15.6 inch, Black, 2.25 kg)",
+        "rating": "4.2",
+        "discount": "₹72,999",
+        "price": "₹70,999",
+        "description": ["Stylish & Portable Thin and Light Laptop 15.6 Inch FHD", "TN 220nits Anti-glare Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 211, 
+        "category": "Laptop" ,
+        "image": ["images/l11a.png", "images/l11b.png", "images/l11c.png", "images/l11d.png", "images/l11e.png"],
+        "name": "DELL Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5515 Gaming Laptop  (14.96 Inch, Specter Green, 2.5 kg, With MS Office)",
+        "rating": "4.2",
+        "discount": "₹72,999",
+        "price": "₹70,999",
+        "description": ["Stylish & Portable Thin and Light Laptop 15.6 Inch FHD", "TN 220nits Anti-glare Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 212, 
+        "category": "Laptop" ,
+        "image": ["images/l12a.png", "images/l12b.png", "images/l12c.png", "images/l12d.png", "images/l12e.png"],
+        "name": "HP Athlon Dual Core 3050U - (8 GB/256 GB SSD/Windows 11 Home) 14s-fq0568AU Thin and Light Laptop  (14 inch, Jet Black, 1.41 Kg, With MS Office)",
+        "rating": "4.2",
+        "discount": "₹72,999",
+        "price": "₹70,999",
+        "description": ["Stylish & Portable Thin and Light Laptop 15.6 Inch FHD", "TN 220nits Anti-glare Light Laptop without Optical Disk Drive"]
+    },
+    {
+        "id": 301, 
+        "category": "Watch" ,
+        "image": ["images/w1a.png", "images/w1b.png", "images/w1c.png", "images/w1d.png", "images/w1e.png"],
+        "name": "CASIO G662 G-Shock ( GG-1000-1A3DR ) Analog-Digital Watch - For Men",
+        "rating": "4.8",
+        "discount": "₹15,999",
+        "price": "₹12,999",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog-Digital",
+            "Model Name: GG-1000-1A3DR",
+            "Power Source: Battery Powered"
+        ]
+    },
+
+    {
+        "id": 302, 
+        "category": "Watch" ,
+        "image": ["images/w2a.png", "images/w2b.png", "images/w2c.png", "images/w2d.png", "images/w2e.png"],
+        "name": "DZ4465 Diesel Mens Mega Chief - DZ4465 Analog Watch - For Men",
+        "rating": "4.3",
+        "discount": "₹11,999",
+        "price": "₹10,999",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Mega Chief",
+            "Power Source: Battery Powered"
+        ]
+    },
+   
+    {
+        "id": 303, 
+        "category": "Watch" ,
+        "image": ["images/w3a.png", "images/w3b.png", "images/w3c.png", "images/w3d.png", "images/w3e.png"],
+        "name": "SCUDERIA FERRARI 0830650 SPEEDRACER Analog Watch - For Men",
+        "rating": "4.5",
+        "discount": "₹13,999",
+        "price": "₹11,499",
+        "description": ["Water Resistant: yes", "Display Type: Analog", "Model Name: SPEEDRACER", "Power Source: Battery Powered"]
+        
+    },
+   
+    {
+        "id": 304, 
+        "category": "Watch" ,
+        "image": ["images/w4a.png", "images/w4b.png", "images/w4c.png", "images/w4d.png", "images/w4e.png"],
+        "name": "CASIO G1093 (GBD-100SM-1A7DR) G-Shock Digital Watch - For Men",
+        "rating": "4.5",
+        "discount": "₹15,999",
+        "price": "₹12,999",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Digital",
+            "Model Name: GBD-100SM-1A7DR",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 305, 
+        "category": "Watch" ,
+        "image": ["images/w5a.png", "images/w5b.png", "images/w5c.png", "images/w5d.png", "images/w5e.png"],
+        "name": "SCUDERIA FERRARI 0830771 Pilota Evo Analog Watch - For Men",
+        "rating": "4.1",
+        "discount": "₹23,999",
+        "price": "₹21,999",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Pilota Evo",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 306, 
+        "category": "Watch" ,
+        "image": ["images/w6a.png", "images/w6b.png", "images/w6c.png", "images/w6d.png", "images/w6e.png"],
+        "name": "SONATA 77085PP04 Volt Analog Watch - For Men",
+        "rating": "4.1",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Pilota Evo",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 307, 
+        "category": "Watch" ,
+        "image": ["images/w7a.png", "images/w7b.png", "images/w7c.png", "images/w7d.png", "images/w7e.png"],
+        "name": "SONATA 87036PL19W SPLASH 3.0 Analog Watch - For Women",
+        "rating": "4.1",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Pilota Evo",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 308, 
+        "category": "Watch" ,
+        "image": ["images/w8a.png", "images/w8b.png", "images/w8c.png", "images/w8d.png", "images/w8e.png"],
+        "name": "Titan NN1733KL03 Neo Analog Watch - For Men",
+        "rating": "4.1",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Pilota Evo",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 309, 
+        "category": "Watch" ,
+        "image": ["images/w9a.png", "images/w9b.png", "images/w9c.png", "images/w9d.png", "images/w9e.png"],
+        "name": "Titan NP1636SM01 Analog Watch - For Men",
+        "rating": "4.1",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Pilota Evo",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 310, 
+        "category": "Watch" ,
+        "image": ["images/w10a.png", "images/w10b.png", "images/w10c.png", "images/w10d.png", "images/w10e.png"],
+        "name": "Fastrack 38044PP02 Trendies Analog Watch - For Men",
+        "rating": "4.1",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Pilota Evo",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 311, 
+        "category": "Watch" ,
+        "image": ["images/w11a.png", "images/w11b.png", "images/w11c.png", "images/w11d.png", "images/w11e.png"],
+        "name": "Fastrack 38044PP02 Trendies Analog Watch - For Men",
+        "rating": "4.1",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Pilota Evo",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 312, 
+        "category": "Watch" ,
+        "image": ["images/w12a.png", "images/w12b.png", "images/w12c.png", "images/w12d.png", "images/w12e.png"],
+        "name": "CASIO A1369 Enticer Men's ( MTP-VD01GL-1EVUDF ) Analog Watch - For Men",
+        "rating": "4.1",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Water Resistant: yes",
+            "Display Type: Analog",
+            "Model Name: Pilota Evo",
+            "Power Source: Battery Powered"
+        ]
+    },
+    {
+        "id": 401, 
+        "category": "Men" ,
+        "image": ["images/fm1a.png", "images/fm1b.png", "images/fm1c.png"],
+        "name": "T410 Men Printed Hooded Neck Blue, Black T-Shirt",
+        "rating": "4.7",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Type: Hooded Neck",
+            "Fit: Regular",
+            "Size: M",
+            "Pattern: Printed",
+            "Fabric: Cotton Blend"
+        ]
+    },
+    {
+        "id": 402, 
+        "category": "Men" ,
+        "image": ["images/fm2a.png", "images/fm2b.png", "images/fm2c.png", "images/fm2d.png", "images/fm2e.png"],
+        "name": "Men Typography Round Neck Grey T-Shirt",
+        "rating": "4.6",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Type: Round Neck",
+            "Fit: Slim",
+            "Size: M",
+            "Pattern: Typography",
+            "Fabric: Cotton Blend"
+        ]
+    },
+    {
+        "id": 403, 
+        "category": "Men" ,
+        "image": ["images/fm3a.png", "images/fm3b.png", "images/fm3c.png", "images/fm3d.png"],
+        "name": "Men Regular Fit Solid Button Down Collar Formal Shirt",
+        "rating": "4.5",
+        "discount": "₹1299",
+        "price": "₹1199",
+        "description": [
+            "Type: Button",
+            "Fit: Regular",
+            "Size: M",
+            "Pattern: Solid",
+            "Fabric: Cotton Blend"
+        ]
+    },
+    {
+        "id": 404, 
+        "category": "Men" ,
+        "image": ["images/fm4a.png", "images/fm4b.png", "images/fm4c.png", "images/fm4d.png"],
+        "name": "Men Regular Fit Striped Ribbed Collar Formal Shirt",
+        "rating": "3.9",
+        "discount": "₹1599",
+        "price": "₹1399",
+        "description": [
+            "Type: Multicolor",
+            "Fit: Regular",
+            "Size: M",
+            "Pattern: Striped",
+            "Fabric: Lycra Blend"
+        ]
+    },
+    {
+        "id": 405, 
+        "category": "Men" ,
+        "image": ["images/fm5a.png", "images/fm5b.png", "images/fm5c.png"],
+        "name": "TRIPR Men Color Block Mandarin Collar Brown, Black T-Shirt",
+        "rating": "3.8",
+        "discount": "₹1199",
+        "price": "₹999",
+        "description": [
+            "Type: Mandarin Collar",
+            "Fit: Regular",
+            "Size: M",
+            "Pattern: Color Block",
+            "Fabric: Cotton Blend"
+        ]
+    },
+    {
+        "id": 406, 
+        "category": "Men" ,
+        "image": ["images/fm6a.png", "images/fm6b.png", "images/fm6c.png", "images/fm6d.png", "images/fm6e.png"],
+        "name": "ELEPANTS Men Solid Cotton Blend Straight Kurta  (Light Blue)",
+        "rating": "4.8",
+        "discount": "₹1199",
+        "price": "₹999",
+        "description": [
+            "Ideal For: Men",
+            "Length Type: Hip Length",
+            "Brand Color: white",
+            "Occasion: Casual",
+            "Pattern: Solid",
+            "Type: Straight"
+        ]
+    },
+    {
+        "id": 407, 
+        "category": "Men" ,
+        "image": ["images/fm7a.png", "images/fm7b.png", "images/fm7c.png", "images/fm7d.png", "images/fm7e.png"],
+        "name": "HIGHLANDER Men Solid Casual Jacket",
+        "rating": "4.5",
+        "discount": "₹1199",
+        "price": "₹999",
+        "description": [
+            "Fabric: Cotton Blend",
+            "Pattern: Solid",
+            "Style code: HLJK000295",
+            "Ideal for: Men",
+            "Sleeve: Full Sleeve",
+            "Character: None",
+            "Closure: Zipper"
+        ]
+    },
+    {
+        "id": 408, 
+        "category": "Men" ,
+        "image": ["images/fm8a.png", "images/fm8b.png", "images/fm8c.png", "images/fm8d.png", "images/fm8e.png"],
+        "name": "HRX by Hrithik Roshan Men Full Sleeve Solid Hooded Sweatshirt",
+        "rating": "4.6",
+        "discount": "₹1199",
+        "price": "₹999",
+        "description": [
+            "Color: Black",
+            "Fabric: Cotton Blend",
+            "Pattern: Solid",
+            "Neck: Hooded Neck",
+            "Sleeve: Full Sleeve"
+        ]
+    },
+    {
+        "id": 409, 
+        "category": "Men" ,
+        "image": ["images/fm9a.png", "images/fm9b.png", "images/fm9c.png", "images/fm9d.png", "images/fm9e.png"],
+        "name": "HPS Sports Solid Men Track Suit",
+        "rating": "4.6",
+        "discount": "₹1199",
+        "price": "₹999",
+        "description": [
+            "Color: Blue",
+            "Pattern: Solid",
+            "Style Code: HPSTK150",
+            "Top Closure: Zipper",
+            "Fabric: Polyester"
+        ]
+    },
+    {
+        "id": 410, 
+        "category": "Men" ,
+        "image": ["images/fm10a.png", "images/fm10b.png", "images/fm10c.png"],
+        "name": "BLIVE Men Striped Round Neck Maroon, Black, Grey T-Shirt",
+        "rating": "4.1",
+        "discount": "₹1199",
+        "price": "₹999",
+        "description": [
+            "Type: Mandarin Collar",
+            "Fit: Regular",
+            "Size: M",
+            "Pattern: Color Block",
+            "Fabric: Cotton Blend"
+        ]
+    },
+    {
+        "id": 411, 
+        "category": "Men" ,
+        "image": ["images/fm11a.png", "images/fm11b.png", "images/fm11c.png"],
+        "name": "ALCIS Alcis Mens Blue Training T-Shirt Men Printed Round Neck Blue T-Shirt",
+        "rating": "4.1",
+        "discount": "₹1199",
+        "price": "₹999",
+        "description": [
+            "Type: Mandarin Collar",
+            "Fit: Regular",
+            "Size: M",
+            "Pattern: Color Block",
+            "Fabric: Cotton Blend"
+        ]
+    },
+    {
+        "id": 412, 
+        "category": "Men" ,
+        "image": ["images/fm12a.png", "images/fm12b.png", "images/fm12c.png"],
+        "name": "3BROS Men Solid Polo Neck Green T-Shirt",
+        "rating": "4.1",
+        "discount": "₹1199",
+        "price": "₹999",
+        "description": [
+            "Type: Mandarin Collar",
+            "Fit: Regular",
+            "Size: M",
+            "Pattern: Color Block",
+            "Fabric: Cotton Blend"
+        ]
+    },
+    {
+        "id": 501, 
+        "category": "Women" ,
+        "image": ["images/fw1a.png", "images/fw1b.png", "images/fw1c.png", "images/fw1d.png", "images/fw1e.png"],
+        "name": "Banaras silk palace Embroidered Banarasi Satin Saree  (Dark Green)",
+        "rating": "4.1",
+        "discount": "₹1599",
+        "price": "₹1399",
+        "description": [
+            "Style Code: Bsp1625",
+            "Pattern: Embroidered",
+            "Occasion: Party & Festive",
+            "Fabric: Satin",
+            "Type: Banarasi",
+            "Sari Style: Regular Sari"
+        ]
+    },
+    {
+        "id": 502, 
+        "category": "Women" ,
+        "image": ["images/fw2a.png", "images/fw2b.png", "images/fw2c.png", "images/fw2d.png", "images/fw2e.png"],
+        "name": "FINE WEAR Woven Kanjivaram Cotton Silk Saree  (Multicolor)",
+        "rating": "4.2",
+        "discount": "₹1599",
+        "price": "₹1399",
+        "description": [
+            "Style Code: GULTI MOR RUST",
+            "Pattern: Woven",
+            "Occasion: Casual",
+            "Fabric: Cotton Silk",
+            "Type: Kanjivaram",
+            "Sari Style: Regular Sari"
+        ]
+    },
+    {
+        "id": 503, 
+        "category": "Women" ,
+        "image": ["images/fw3a.png", "images/fw3b.png", "images/fw3c.png", "images/fw3d.png", "images/fw3e.png"],
+        "name": "DMP FASHION Casual Regular Sleeves Printed Women Maroon Top",
+        "rating": "4.3",
+        "discount": "₹1599",
+        "price": "₹1399",
+        "description": [
+            "Style Code: DMP316-XS",
+            "Pattern: Printed",
+            "Occasion: Casual",
+            "Fabric: Viscose Rayon",
+            "Type: Crop Top" 
+        ]
+    },
+    {
+        "id": 504, 
+        "category": "Women" ,
+        "image": ["images/fw4a.png", "images/fw4b.png", "images/fw4c.png", "images/fw4d.png"],
+        "name": "BASE 41 Women Solid Round Neck Red T-Shirt",
+        "rating": "4.4",
+        "discount": "₹1299",
+        "price": "₹1199",
+        "description": [
+            "Style Code: _NECKTOP_RED",
+            "Pattern: Solid",
+            "Occasion: Casual",
+            "Fabric: Cotton Blend",
+            "Type: Round Neck"
+        ]
+    },
+    {
+        "id": 505, 
+        "category": "Women" ,
+        "image": ["images/fw5a.png", "images/fw5b.png", "images/fw5c.png", "images/fw5d.png", "images/fw5e.png"],
+        "name": "BASE 41 Women Solid Round Neck Red T-Shirt",
+        "rating": "4.4",
+        "discount": "₹1299",
+        "price": "₹1199",
+        "description": [
+            "Style Code: _NECKTOP_RED",
+            "Pattern: Solid",
+            "Occasion: Casual",
+            "Fabric: Cotton Blend",
+            "Type: Round Neck"
+        ]
+    },
+    {
+        "id": 506, 
+        "category": "Women" ,
+        "image": ["images/fw6a.png", "images/fw6b.png", "images/fw6c.png", "images/fw6d.png", "images/fw6e.png"],
+        "name": "SANU FASHION Women Printed Viscose Rayon Straight Kurta  (Black)",
+        "rating": "4.4",
+        "discount": "₹1299",
+        "price": "₹1199",
+        "description": [
+            "Sleeve: 3/4 Sleeve",
+            "Pattern: Printed",
+            "Occasion: Casual",
+            "Fabric: Viscose Rayon",
+            "Type: Straight"
+        ]
+    },
+    {
+        "id": 507, 
+        "category": "Women" ,
+        "image": ["images/fw7a.png", "images/fw7b.png", "images/fw7c.png", "images/fw7d.png", "images/fw7e.png"],
+        "name": "PURVAJA Solid, Embellished Semi Stitched Lehenga Choli  (Dark Green)",
+        "rating": "4.4",
+        "discount": "₹1299",
+        "price": "₹1199",
+        "description": [
+            "Occasion: Wedding & Festive",
+            "Lehenga Fabric: Cotton Blend",
+            "Choli Fabric: Jacquard",
+            "Type: Lehenga Choli",
+            "Dupatta Fabric: Art Silk",
+            "Neck: Sweetheart Neck",
+            "Sleeve: Short Sleeve"
+        ]
+    },
+    {
+        "id": 508, 
+        "category": "Women" ,
+        "image": ["images/fw8a.png", "images/fw8b.png", "images/fw8c.png"],
+        "name": "aerotick Women Printed Viscose Rayon Anarkali Kurta With Attached Dupatta  (Maroon)",
+        "rating": "4.2",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Fabric: Viscose Rayon",
+            "Type: Kurta, Pant And Dupatta Set",
+            "Sales Package: kurti, paint, duppata",
+            "Style Code: gota,work,9887",
+            "Top fabric: Rayon",
+            "Bottom type: Pant",
+            "Pattern: Embroidered"
+        ]
+    },
+    {
+        "id": 509, 
+        "category": "Women" ,
+        "image": ["images/fw9a.png", "images/fw9b.png", "images/fw9c.png", "images/fw9d.png", "images/fw9e.png"],
+        "name": "ftDiva Paisley Rayon Blend Stitched Anarkali Gown  (Pink)",
+        "rating": "4.3",
+        "discount": "₹799",
+        "price": "₹699",
+        "description": [
+            "Style Code: Rite1052",
+            "Occasion: Wedding & Festive",
+            "Neck: Round Neck",
+            "Sleeve: 3/4 Sleeve",
+            "Fabric Care: Normal Machine Wash",
+            "Fabric: Rayon Blend",
+            "Type: Anarkali",
+            "Sleeve Style: Regular Sleeve"
+        ]
+    },
+    {
+        "id": 510, 
+        "category": "Women" ,
+        "image": ["images/fw10a.png", "images/fw10b.png", "images/fw10c.png", "images/fw10d.png", "images/fw10e.png"],
+        "name": "ARSHIMPEX Georgette Embroidered White Women Dupatta",
+        "rating": "4.3",
+        "discount": "₹499",
+        "price": "₹399",
+        "description": [
+            "Style code: a8003",
+            "Occasion: Party & Festive",
+            "Fabric care: Hand Wash",
+            "Fabric: Georgette",
+            "Pattern: Embroidered"
+        ]
+    },
+    {
+        "id": 511, 
+        "category": "Women" ,
+        "image": ["images/fw11a.png", "images/fw11b.png", "images/fw11c.png", "images/fw11d.png", "images/fw11e.png"],
+        "name": "Fab Star Casual Regular Sleeves Solid Women Pink Top",
+        "rating": "4.3",
+        "discount": "₹499",
+        "price": "₹399",
+        "description": [
+            "Neck: Mandarin Collar",
+            "Sleeve Style: Regular Sleeves",
+            "Sleeve Length: 3/4 Sleeve",
+            "Fit: Regular",
+            "Fabric: Viscose Rayon",
+            "Type: Regular Top"
+        ]
+    },
+    {
+        "id": 512, 
+        "category": "Women" ,
+        "image": ["images/fw12a.png", "images/fw12b.png", "images/fw12c.png", "images/fw12d.png", "images/fw12e.png"],
+        "name": "VeBNoR Casual Regular Sleeves Printed Women Pink Top",
+        "rating": "4.3",
+        "discount": "₹499",
+        "price": "₹399",
+        "description": [
+            "Neck: Round Neck",
+            "Sleeve Style: Regular Sleeves",
+            "Sleeve Length: 3/4 Sleeve",
+            "Fit: Regular",
+            "Fabric: Crepe",
+            "Type: Regular Top"
+        ]
+    },
+    {
+        "id": 601, 
+        "category": "Home-Appliance",
+        "image": ["images/h1a.png", "images/h1b.png", "images/h1c.png", "images/h1d.png", "images/h1e.png"],
+        "name": "LG OLED A1 Series 164 cm (65 inch) OLED Ultra HD (4K) Smart WebOS TV  (OLED65A1PTZ)",
+        "rating": "4.2",
+        "discount": "₹1,64,999",
+        "price": "₹1,60,999",
+        "description": [
+            "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube",
+            "Operating System: WebOS",
+            "Resolution: Ultra HD (4K) 3840 x 2160 Pixels",
+            "Sound Output: 20 W"  
+        ]
+    },
+    {
+        "id": 602, 
+        "category": "Home-Appliance",
+        "image": ["images/h2a.png", "images/h2b.png", "images/h2c.png", "images/h2d.png", "images/h2e.png"],
+        "name": "O General 2 Ton 5 Star Split Inverter AC - White  (ASGG24CETA, Copper Condenser)",
+        "rating": "4.2",
+        "discount": "₹94,999",
+        "price": "₹90,999",
+        "description": [
+            "2 Ton",
+            "5 Star BEE Rating 2021",
+            "Auto Restart",
+            "Copper"  
+        ]
+    },
+    {
+        "id": 603, 
+        "category": "Home-Appliance",
+        "image": ["images/h3a.png", "images/h3b.png", "images/h3c.png", "images/h3d.png", "images/h3e.png"],
+        "name": "LG 242 L Frost Free Double Door 3 Star Refrigerator with Smart Inverter  (Shiny Steel, GL-I292RPZX)",
+        "rating": "4.4",
+        "discount": "₹24,999",
+        "price": "₹22,999",
+        "description": [
+            "242 L : Good for families of 3-5 members",
+            "Smart Inverter Compressor",
+            "3 Star : For Energy savings up to 35%",
+            "Frost Free : Auto fridge defrost to stop ice-build up"  
+        ]
+    },
+    {
+        "id": 604, 
+        "category": "Home-Appliance",
+        "image": ["images/h4a.png", "images/h4b.png", "images/h4c.png", "images/h4d.png", "images/h4e.png"],
+        "name": "SAMSUNG 8 kg With AI Control & Wi-Fi and Digital Inverter Fully Automatic Front Load with In-built Heater Black  (WW80T504DAB1TL)",
+        "rating": "4.4",
+        "discount": "₹38,999",
+        "price": "₹36,999",
+        "description": [
+            "Fully Automatic Front Load Washing Machines have Great Wash Quality with very less running cost",
+            "1400 rpm : Higher the spin speed, lower the drying time",
+            "5 Star Rating",
+            "8 kg"  
+        ]
+    },
+    {
+        "id": 605, 
+        "category": "Home-Appliance",
+        "image": ["images/h5a.png", "images/h5b.png", "images/h5c.png", "images/h5d.png", "images/h5e.png"],
+        "name": "Venus 100 L Storage Water Geyser (100GV Magma, White)",
+        "rating": "4.5",
+        "discount": "₹37,999",
+        "price": "₹34,999",
+        "description": [
+            "Storage Useful for Bathroom, can store heated water",
+            "100 L Greater the Capacity, more the users can be served for bath/wash",
+            "8 bar : Pressure rating >8 bar is suitable for High Rise buildings",
+            "Vertical : Suitable for large wall spaces"  
+        ]
+    },
+    {
+        "id": 606, 
+        "category": "Home-Appliance",
+        "image": ["images/h6a.png", "images/h6b.png", "images/h6c.png", "images/h6d.png", "images/h6e.png"],
+        "name": "Pureit Vital 6 L RO + UV + Minerals Water Purifier with FiltraPower Technology  (Black)",
+        "rating": "4.7",
+        "discount": "₹12,999",
+        "price": "₹10,999",
+        "description": [
+            "Electrical & Storage : Electric purification - suitable for areas with water shortage",
+            "6 L : More the capacity, more the users can be served with drinking water",
+            "RO + UV + Minerals",
+            "In The Box: 1 Water Purifier, Installation Kit, External Sediment Filter, Warranty Card",
+            "Power Requirement: AC 100 - 240 V, 50/60 Hz" 
+        ]
+    },
+    {
+        "id": 607, 
+        "category": "Home-Appliance",
+        "image": ["images/h7a.png", "images/h7b.png", "images/h7c.png", "images/h7d.png", "images/h7e.png"],
+        "name": "PHILIPS AC2887/20 (883 4887 20280) Portable Room Air Purifier  (White)",
+        "rating": "4.3",
+        "discount": "₹15,999",
+        "price": "₹14,999",
+        "description": [
+            "851 sq ft:Suitable for a Large Room/Hall",
+            "HEPA, Activated Carbon: Cleans common particle allergens, needs periodic replacement",
+            "344 CMH: Large rooms need higher CADR ratings to filter more air per min",
+            "Brand: PHILIPS",
+            "Model Name: AC2887/20 (883 4887 20280)"
+        ]
+    },
+    {
+        "id": 608, 
+        "category": "Home-Appliance",
+        "image": ["images/h8a.png", "images/h8b.png", "images/h8c.png", "images/h8d.png", "images/h8e.png"],
+        "name": "Aulten 5KVA Copper 4000W 50V - 280V Heavy Duty Mainline Voltage Stabilizer for Home.",
+        "rating": "4.1",
+        "discount": "₹16,999",
+        "price": "₹15,999",
+        "description": [
+           "Brand: Aulten",
+           "Type: Heavy Duty Mainline Voltage Stabilizer for Home.",
+           "Used For: Mainline, Home Appliances",
+           "Cooling: Air Cooling",
+           "Model ID: 5KVA Copper 4000W 50V - 280V"
+        ]
+    },
+    {
+        "id": 609, 
+        "category": "Home-Appliance",
+        "image": ["images/h9a.png", "images/h9b.png", "images/h9c.png", "images/h9d.png", "images/h9e.png"],
+        "name": "Inalsa Master Vac 25 with 3 in 1 Multifunction Wet/Dry/Blowing| 22KPA Suction Wet & Dry Vacuum Cleaner  (Silver/Black)",
+        "rating": "4.1",
+        "discount": "₹6,999",
+        "price": "₹5,999",
+        "description": [
+           "Type: Wet & Dry Cleaner",
+           "Dust Collecting Feature: 25 Capacity",
+           "Blower: Yes",
+           "WiFi Connectivity: No",
+           "Motor and Suction Power: 1700 W(Motor)"
+        ]
+    },
+    {
+        "id": 610, 
+        "category": "Home-Appliance",
+        "image": ["images/h10a.png", "images/h10b.png", "images/h10c.png", "images/h10d.png", "images/h10e.png"],
+        "name": "Inalsa Master Vac 25 with 3 in 1 Multifunction Wet/Dry/Blowing| 22KPA Suction Wet & Dry Vacuum Cleaner  (Silver/Black)",
+        "rating": "4.2",
+        "discount": "₹9,999",
+        "price": "₹8,999",
+        "description": [
+            "Sewing Speed: 800",
+            "Number of buttonhole styles: 4",
+            "Brand: Singer",
+            "Model Name: FM 2250",
+            "Color: White",
+            "Type: Electric",
+            "Number of Stitches: 10"
+        ]
+    },
+    {
+        "id": 611, 
+        "category": "Home-Appliance",
+        "image": ["images/h11a.png", "images/h11b.png", "images/h11c.png", "images/h11d.png", "images/h11e.png"],
+        "name": "HAVELLS ZELLA 1500 WATT 1500 W Immersion Heater Rod  (WATER)",
+        "rating": "4.5",
+        "discount": "₹1,999",
+        "price": "₹1,599",
+        "description": [
+            "Brand: HAVELLS",
+            "Model ID: ZELLA 1500 WATT",
+            "Heating Substances: WATER",
+            "Heating Element Type: HAIRPIN TUBULAR ELEMENT",
+            "Thermostat: Yes",
+            "Power Consumption: 1500"
+        ]
+    },
+    {
+        "id": 612, 
+        "category": "Home-Appliance",
+        "image": ["images/h12a.png", "images/h12b.png", "images/h12c.png", "images/h12d.png", "images/h12e.png"],
+        "name": "Rico AI13 Heavyweight Japanese Technology 2 KG Iron Press 1000 W Dry Iron  (Ivory)",
+        "rating": "4.2",
+        "discount": "₹1,799",
+        "price": "₹1,599",
+        "description": [
+            "Brand: Rico",
+            "Model: AI13 Heavyweight Japanese Technology 2 KG Iron Press",
+            "Type: Dry",
+            "Color: Ivory",
+            "Sales Package: 1 Dry Iron, 1 User Manual, 1 Warranty Card"
+        ]
+    },
+    {
+        "id": 701, 
+        "category": "Grocery",
+        "image": ["images/g1a.png", "images/g1b.png", "images/g1c.png", "images/g1d.png", "images/g1e.png"],
+        "name": "Saffola Gold Refined Cooking oil, Blended Rice Bran & Corn oil, Helps Keep Heart Healthy Blended Oil Pouch  (4 x 1 L)",
+        "rating": "4.5",
+        "discount": "₹899",
+        "price": "₹799",
+        "description": [
+            "Brand: Saffola",
+            "Model Name: Gold Refined Cooking oil, Blended Rice Bran & Corn oil, Helps Keep Heart Healthy",
+            "Ingredients: Physically refined rice bran oil, refined corn oil, antioxidants (INS 319, 330), anti foaming agent (INS 900s), vitamins",
+            "Processing Type: Blended"  
+        ]
+    },
+    {
+        "id": 702, 
+        "category": "Grocery",
+        "image": ["images/g2a.png", "images/g2b.png", "images/g2c.png", "images/g2d.png", "images/g2e.png"],
+        "name": "sish desi Super Lean (500gm packs of 5 with 500g Extra) Desi Murmura Puffed Rice (Full Grain, Parboiled)  (2.5 kg)",
+        "rating": "4.6",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [
+            "Brand: sish desi",
+            "Model Name: Super Lean (500gm packs of 5 with 500g Extra) Desi Murmura",
+            "Rice Type: Puffed Rice",
+            "Dietary Preference: No Cholesterol",
+            "Nutrient Content: Energy 402 Kcal"  
+        ]
+    },
+    {
+        "id": 703, 
+        "category": "Grocery",
+        "image": ["images/g3a.png", "images/g3b.png", "images/g3c.png", "images/g3d.png", "images/g3e.png"],
+        "name": "lila dry fruits Combo California Almonds & Dried Figs | American Badam & Afgani Anjeer Jar combo Pack| Premium Product| (200GMS ) Almonds, Figs  (2 x 200 g)",
+        "rating": "4.2",
+        "discount": "₹699",
+        "price": "₹599",
+        "description": [
+            "Brand: lila dry fruits",
+            "Model Name: Combo California Almonds & Dried Figs | American Badam & Afgani Anjeer Jar combo Pack| Premium Product| (200GMS ",
+            "Type: Almonds, Figs",
+            "Variant: Kernels, Dried",
+            "Container Type: Vacuum Pack" 
+        ]
+    },
+    {
+        "id": 704, 
+        "category": "Grocery",
+        "image": ["images/g4a.png", "images/g4b.png", "images/g4c.png", "images/g4d.png", "images/g4e.png"],
+        "name": "Safe Products Cashew Nuts (250 gm)-Roasted and Salted Cashews  (250 g)",
+        "rating": "4.2",
+        "discount": "₹599",
+        "price": "₹499",
+        "description": [
+            "Brand: Safe Products",
+            "Model Name: Cashew Nuts (250 gm)-Roasted and Salted",
+            "Type: Almonds, Figs",
+            "Nutrient Content: Energy 605.4 Kcal Carbohydrates 26.58 gm Sugar 0 gm Protein 19.65 gm Fat 46.68 gm"
+        ]
+    },
+    {
+        "id": 705, 
+        "category": "Grocery",
+        "image": ["images/g5a.png", "images/g5b.png", "images/g5c.png", "images/g5d.png", "images/g5e.png"],
+        "name": "caneen Coconut Milk | Product of Thailand | Non- Diary - 400 Ml each (Pack of 3)  (3 x 400 ml)",
+        "rating": "4.3",
+        "discount": "₹599",
+        "price": "₹499",
+        "description": [
+            "Brand: caneen",
+            "Model Name: Coconut Milk | Product of Thailand | Non- Diary - 400 Ml each (Pack of 3)",
+            "Type: Coconut Milk",
+            "Nutrient Content: calories 140",
+            "Ingredients: Coconut extract, Water"
+        ]
+    },
+    {
+        "id": 706, 
+        "category": "Grocery",
+        "image": ["images/g6a.png", "images/g6b.png", "images/g6c.png", "images/g6d.png", "images/g6e.png"],
+        "name": "Diabexy Diabetic food product Atta Sugar Control for Diabetes - 1kg  (1000 g)",
+        "rating": "4.6",
+        "discount": "₹499",
+        "price": "₹399",
+        "description": [
+            "Brand: Diabexy",
+            "Model Name: Diabetic food product Atta Sugar Control for Diabetes - 1kg",
+            "Type: Multigrain Flour",
+            "Nutrient Content: energy-461 kcal"
+        ]
+    },
+    {
+        "id": 707, 
+        "category": "Grocery",
+        "image": ["images/g7a.png", "images/g7b.png", "images/g7c.png", "images/g7d.png", "images/g7e.png"],
+        "name": "Jay Shree Tea A Birla Product Kashmiri Kahwa Blended With Almonds & Other Indian Spices Darjeeling Green Tea Green Tea Vacuum Pack  (500 g)",
+        "rating": "4.6",
+        "discount": "₹4199",
+        "price": "₹3399",
+        "description": [
+            "Brand: Jay Shree Tea A Birla Product",
+            "Model Name: Kashmiri Kahwa Blended With Almonds & Other Indian Spices Darjeeling Green Tea",
+            "Type: Green Tea",
+            "Tea Form: Leaves",
+            "Regional Speciality: Darjeeling"
+        ]
+    },
+    {
+        "id": 708, 
+        "category": "Grocery",
+        "image": ["images/g8a.png", "images/g8b.png", "images/g8c.png", "images/g8d.png", "images/g8e.png"],
+        "name": "Mr.Kool Premium Products Hamper Combo  (100g, 1g, 20ml, 100g, 100g, 450g, 500g, 100g, 100g, 1g)",
+        "rating": "4.6",
+        "discount": "₹1199",
+        "price": "₹1099",
+        "description": [
+            "Brand: Mr.Kool",
+            "Model Name: Premium Products Hamper",
+            "Primary Product Type: Baking Ingredient",
+            "Secondary Product Type: Protein Supplement",
+            "quantity: 100g, 1g, 20ml, 100g, 100g, 450g, 500g, 100g, 100g, 1g",
+            "Maximum Shelf Life: 9 Months"
+        ]
+    },
+    {
+        "id": 709, 
+        "category": "Grocery",
+        "image": ["images/g9a.png", "images/g9b.png", "images/g9c.png", "images/g9d.png", "images/g9e.png"],
+        "name": "MUSCLEBLAZE Creatine Monohydrate , 100g + Ayurveda MuscleHerb , 30 tablets (Combo Pack) Combo  (100g, 30 Tablets)",
+        "rating": "4.6",
+        "discount": "₹899",
+        "price": "₹799",
+        "description": [
+            "Brand: MUSCLEBLAZE",
+            "Model Name: Creatine Monohydrate , 100g + Ayurveda MuscleHerb , 30 tablets (Combo Pack)",
+            "Primary Product Type: Protein Supplements",
+            "Secondary Product Type: Vitamin Supplement",
+            "Features: Increase strength & power, Enhance energy, Volumizes Muscles and increase lean body mass | Boost Testosteone"
+        ]
+    },
+    {
+        "id": 710, 
+        "category": "Grocery",
+        "image": ["images/g10a.png", "images/g10b.png", "images/g10c.png", "images/g10d.png", "images/g10e.png"],
+        "name": "Dhampur Green Sugar Essentials Variety Pack |Special Baking Pack Combo  (5)",
+        "rating": "4.6",
+        "discount": "₹399",
+        "price": "₹299",
+        "description": [
+            "Brand: Dhampur Green",
+            "Model Name: Sugar Essentials Variety Pack |Special Baking Pack",
+            "Primary Product Type: Cakes & Pastries",
+            "Secondary Product Type: Sugar",
+            "Package Contents: Demerara Sugar (250G), Organic Jaggery Powder (250G), Castor Sugar (250G), Icing Sugar (250G), Breakfast Sugar (250G)"
+        ]
+    },
+    {
+        "id": 711, 
+        "category": "Grocery",
+        "image": ["images/g11a.png", "images/g11b.png", "images/g11c.png", "images/g11d.png", "images/g11e.png"],
+        "name": "RUCHI Combo Pack(Turmeric Powder 250gm,Chilli Powder 100gm, Dalchini Powder 100gm) Combo  (COMBO of 7 items)",
+        "rating": "4.6",
+        "discount": "₹399",
+        "price": "₹299",
+        "description": [
+            "Brand: RUCHI",
+            "Model Name: Combo Pack(Turmeric Powder 250gm,Chilli Powder 100gm Dalchini Powder 100gm)",
+            "Primary Product Type: Spices & Masala",
+            "Secondary Product Type: Spices & Masala",
+            "Package Contents: Chilli Powder - 100gm, Meat Masala 100gm, Chicken Masala 100gm, Egg Curry Masala 50gm, Fish Masala 50gm, Dalchini Powder 100gm, Turmeric Powder- 250gm"
+        ]
+    },
+    {
+        "id": 712, 
+        "category": "Grocery",
+        "image": ["images/g12a.png", "images/g12b.png", "images/g12c.png", "images/g12d.png", "images/g12e.png"],
+        "name": "Ashish Masale CHAT MASALA 70 grm + CHAT MASALA 70 grm (BOTTLE) Combo  (2)",
+        "rating": "4.6",
+        "discount": "₹299",
+        "price": "₹199",
+        "description": [
+            "Brand: Ashish Masale",
+            "Model Name: CHAT MASALA 70 grm + CHAT MASALA 70 grm (BOTTLE)",
+            "Primary Product Type: Spices & Masala",
+            "Secondary Product Type: Spices & Masala",
+            "Package Contents: CHAT MASALA 70 grm + CHAT MASALA 70 grm (BOTTLE)"
+        ]
+    },
+    {
+        "id": 801, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k1a.png", "images/k1b.png", "images/k1c.png", "images/k1d.png", "images/k1e.png"],
+        "name": "SAMSUNG 28 L Convection & Grill Microwave Oven  (MC28A5013AK, Black)",
+        "rating": "4.4",
+        "discount": "₹11999",
+        "price": "₹10999",
+        "description": [        
+            "In The Box: 1 Convection Microwave Oven, Glass Turntable, Wire Rack, Quick Guide Label",
+            "Brand: SAMSUNG",
+            "Model Name: MC28A5013AK",
+            "Type: Convection & Grill",
+            "Capacity: 28 L",
+            "Control Type: Touch Key Pad (Membrane)"
+        ]
+    },
+    {
+        "id": 802, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k2a.png", "images/k2b.png", "images/k2c.png", "images/k2d.png", "images/k2e.png"],
+        "name": "Morphy Richards 60-Litre 510053 Oven Toaster Grill (OTG)  (Silver)",
+        "rating": "4.1",
+        "discount": "₹14999",
+        "price": "₹13999",
+        "description": [        
+            "In The Box: One Unit::Instruction manual::Warranty card::skewer::rotisserie::grill rack::bake tray::crumb tray::rotisserie tong::grill and bake tong::rotisserie skewer",
+            "Brand: Morphy Richards",
+            "Model Name: 60RCSS Luxechef",
+            "Type: Convection",
+            "Capacity: 60 L",
+            "Control Type: Digital"
+        ]
+    },
+    {
+        "id": 803, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k3a.png", "images/k3b.png", "images/k3c.png", "images/k3d.png", "images/k3e.png"],
+        "name": "Hamilton Beach 58770-IN Professional 1400 W Mixer Grinder (3 Jars, Silver, Black)",
+        "rating": "4.5",
+        "discount": "₹26999",
+        "price": "₹25999",
+        "description": [        
+            "In The Box: 1 Mixer Grinder, Chutney Jar, Grinding Jar, Liquidizing Jar, Tamper, Scraper, 2 Filler Caps and Base, User Manual",
+            "Power Required: AC 220 - 240 V",
+            "Revolutions: 18000 rpm",
+            "Material: Stainless Steel",
+            "Dry Grinding: Yes",
+            "Blending: Yes"
+        ]
+    },
+    {
+        "id": 804, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k4a.png", "images/k4b.png", "images/k4c.png", "images/k4d.png", "images/k4e.png"],
+        "name": "Smeg KLF03PKEU Electric Kettle  (1.7 L, Pink)",
+        "rating": "4.5",
+        "discount": "₹20999",
+        "price": "₹18999",
+        "description": [        
+            "In The Box: 1 Kettle, Base, Manual",
+            "Power Required: AC 220 - 240 V",
+            "Power Indicator: Yes",
+            "Lockable Lid: Yes",
+            "Dry Boil Protection: Yes",
+            "Auto Switch Off: Yes",
+            "Heating Element: Concealed Heating Element"
+        ]
+    },
+    {
+        "id": 805, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k5a.png", "images/k5b.png", "images/k5c.png", "images/k5d.png", "images/k5e.png"],
+        "name": "Whirlpool CLASSIC BF 60 BK HOOD 60 cm 750 m³/hr Wall Mounted Chimney  (Black 750 CMH)",
+        "rating": "4.5",
+        "discount": "₹5999",
+        "price": "₹4999",
+        "description": [        
+           "Brand: Whirlpool",
+           "Model Number: CLASSIC BF 60 BK HOOD 60 cm 750 m³/hr",
+           "Mount Type: Wall Mounted",
+           "Material: Stainless Steel",
+           "Air Suction Capacity: 750 CMH",
+           "Control Panel Type: Push Button Control",
+           "Ductless: No",
+           "Filter Type: Baffle Filter"
+        ]
+    },
+    {
+        "id": 806, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k6a.png", "images/k6b.png", "images/k6c.png", "images/k6d.png", "images/k6e.png"],
+        "name": "Hamilton Beach 25341-SAU Waffle, Open Grill  (Black, Silver)",
+        "rating": "4.5",
+        "discount": "₹12999",
+        "price": "₹11999",
+        "description": [        
+           "Brand: Hamilton Beach",
+           "Model Number: 25341-SAU",
+           "Slice Capacity: 2",
+           "Functions: Griddling",
+           "Other Body Features: Cool Touch Handle, Healthy Low-fat Cooking: Slanted Surface Drains Grease and Fat in to Drip Tray"
+        ]
+    },
+    {
+        "id": 807, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k7a.png", "images/k7b.png", "images/k7c.png", "images/k7d.png", "images/k7e.png"],
+        "name": "Panasonic SR-W18GH CMB PACK OF 3 Electric Rice Cooker  (4.4 L, LEMON)",
+        "rating": "4.2",
+        "discount": "₹12999",
+        "price": "₹11999",
+        "description": [        
+          "Model Number: SR-W18GH CMB PACK OF 3",
+          "Type: Rice Cooker",
+          "Color: LEMON",
+          "Capacity: 4.4 L",
+          "Sales Package: 3 main unit and User Manual"
+        ]
+    },
+    {
+        "id": 808, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k8a.png", "images/k8b.png", "images/k8c.png", "images/k8d.png", "images/k8e.png"],
+        "name": "Butterfly Rapid Wet Grinder  (Grey)",
+        "rating": "4.2",
+        "discount": "₹4999",
+        "price": "₹3999",
+        "description": [        
+            "Brand: Butterfly",
+            "Power Requirement: AC 220 - 240 V, 50 Hz",
+            "Power Consumption: 150 W",
+            "Motor Speed: 1300 rpm",
+            "Capacity: 2 L"
+        ]
+    },
+    {
+        "id": 809, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k9a.png", "images/k9b.png", "images/k9c.png", "images/k9d.png", "images/k9e.png"],
+        "name": "USHA FP 3811_ 1000 W Food Processor  (Black, Silver)",
+        "rating": "4.1",
+        "discount": "₹12999",
+        "price": "₹11999",
+        "description": [        
+            "Brand: USHA",
+            "Power Requirement: AC 220 - 240 V, 50 Hz",
+            "Power Consumption: 150 W",
+            "Motor Speed: 13000 RPM - 16000 RPM",
+            "Processing Bowl: 3.5 L Processing Bowl"
+        ]
+    },
+    {
+        "id": 810, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k10a.png", "images/k10b.png", "images/k10c.png", "images/k10d.png", "images/k10e.png"],
+        "name": "NESCAFE E' smart Personal Coffee Maker  (Black)",
+        "rating": "4.1",
+        "discount": "₹6999",
+        "price": "₹5999",
+        "description": [        
+            "Type: Drip Coffee Machine",
+            "Capacity: 1 Cup",
+            "Power Requirement: AC 220 - 240 V, 50 Hz",
+            "Frother: Yes",
+            "Illuminated On Off Switch: Yes",
+            "Sales Package: 1 Mug, Docking Station, Dozer, User Manual"
+        ]
+    },
+    {
+        "id": 811, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k11a.png", "images/k11b.png", "images/k11c.png", "images/k11d.png", "images/k11e.png"],
+        "name": "LG DFB424FP Free Standing 14 Place Settings Intensive Kadhai Cleaning| No Pre-rinse Required Dishwasher",
+        "rating": "4.3",
+        "discount": "₹56999",
+        "price": "₹45999",
+        "description": [        
+            "14 Place Settings: Great for medium-sized households (4+ members)",
+            "Removable Rack: Helps you load tall vessels in the 2nd rack",
+            "9 Wash Programs: Helps to control time it takes to wash, temperature of water, amount of water and energy saved"
+        ]
+    },
+    {
+        "id": 812, 
+        "category": "Kitchen Appliances",
+        "image": ["images/k12a.png", "images/k12b.png", "images/k12c.png", "images/k12d.png", "images/k12e.png"],
+        "name": "KENT 16050 150 W Hand Blender  (White)",
+        "rating": "4.3",
+        "discount": "₹999",
+        "price": "₹899",
+        "description": [        
+            "Sales Package: Hand blender, User Manual",
+            "Model: 16050",
+            "Body Material: Plastic",
+            "Blade Material: Stainless Steel",
+            "Chopping: Yes",
+            "Pureeing: Yes"
+        ]
+    }
+     
+]
